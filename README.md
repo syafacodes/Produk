@@ -23,6 +23,7 @@
       <td align="center"><b>Tambah Produk</b></td>
       <td align="center"><b>Statistik</b></td>
       <td align="center"><b>laporan</b></td>
+      <td align="center"><b>Detail Produk</b></td>
     </tr>
     <tr>
       <td align="center">
@@ -36,6 +37,9 @@
       </td>
       <td align="center">
        <img width="1365" height="724" alt="Screenshot_85" src="https://github.com/user-attachments/assets/eddcf6ae-f936-4247-9558-3f1915cb6fbf" />
+      </td>
+      <td align="center">
+     <img width="1365" height="721" alt="Screenshot_82" src="https://github.com/user-attachments/assets/da40e3d2-1806-4663-882a-1b6bef22b048" />
       </td>
     </tr>
   </table>
