@@ -21,19 +21,20 @@
     <tr>
       <td align="center"><b>Dashboard</b></td>
       <td align="center"><b>Tambah Produk</b></td>
+      <td align="center"><b>Edit Produk</b></td>
       <td align="center"><b>Statistik</b></td>
       <td align="center"><b>laporan</b></td>
       <td align="center"><b>Detail Produk</b></td>
     </tr>
     <tr>
       <td align="center">
-       <img width="1365" height="724" alt="Screenshot_82" src="https://github.com/user-attachments/assets/8ea5e256-c5c6-469c-9fc0-37c554fbb199" />
+       <img width="1365" height="767" alt="Screenshot_83" src="https://github.com/user-attachments/assets/93c7e49f-7061-4d24-bf76-53f93608be67" />
       </td>
       <td align="center">
-        <img width="1365" height="722" alt="Screenshot_83" src="https://github.com/user-attachments/assets/e50f8586-d20a-45b9-8ef5-1ba92684d7a7" />
+        <img width="1365" height="767" alt="Screenshot_82" src="https://github.com/user-attachments/assets/975eab5c-f0cd-49cb-986d-d46f98a79aad" />
       </td>
       <td align="center">
-        <img width="1365" height="720" alt="Screenshot_84" src="https://github.com/user-attachments/assets/1d9e2af6-89aa-4b95-bf2d-75bcb8ab5db6" />
+        <img width="1365" height="722" alt="Screenshot_82" src="https://github.com/user-attachments/assets/3e97ad9b-753c-41e3-8e44-723a3a380f3f" />
       </td>
       <td align="center">
        <img width="1365" height="724" alt="Screenshot_85" src="https://github.com/user-attachments/assets/eddcf6ae-f936-4247-9558-3f1915cb6fbf" />
